@@ -10,9 +10,11 @@ This iOS app is developed as a "self challenge" project in the iBook tutorial "H
 # Topics / milestones
 - JSON data / JSONDecoder
 
-- Delegate (and Protocol) design pattern
+- Custom Delegate (and Protocol) design pattern
 
 - Custom classes
+
+- UITableViewController
 
 - WebKit and WKWebView
 
