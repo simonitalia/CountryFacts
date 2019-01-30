@@ -1,0 +1,29 @@
+[
+  {
+    "name": "England",
+    "capital": "London",
+    "languages": ["English"],
+    "population": 55619400
+  },
+
+  {
+    "name": "Scotland",
+    "capital": "Edinburgh",
+    "languages": ["English"],
+    "population": 5424800
+  },
+
+  {
+    "name": "Wales",
+    "capital": "Cardiff",
+    "languages": ["Welsh", "English"],
+    "population": 3125000
+  },
+
+  {
+    "name": "Northern Ireland",
+    "capital": "Belfast",
+    "languages": ["English"],
+    "population": 1876695
+  }
+]
