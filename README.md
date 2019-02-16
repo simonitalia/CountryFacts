@@ -64,6 +64,10 @@ Some features included are not part of the guided project, but are added as stre
 
 - HTML presentation markup (suggested)
 
-
 # Completed
 January, 2019
+
+# Deployment information
+- <strong>Deployment Target (iOS version): </strong>12.1 and higher
+- <strong>Supported Devices: </strong>Universal
+- <strong>Optimized for: </strong>iPhone
