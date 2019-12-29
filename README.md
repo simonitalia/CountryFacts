@@ -10,7 +10,7 @@ This iOS app is developed as a "self challenge" project in the iBook tutorial "H
 # Project Type
 Self challenge
 
-# Topics / milestones
+# Technologies
 - JSON data / JSONDecoder
 
 - Custom Delegate (and Protocol) design pattern
